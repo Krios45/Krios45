@@ -1,1 +1,1 @@
-![Lonely dance gif](https://media.giphy.com/media/8JCIWBz8oRRLZmZhNn/giphy.gif)
+![Lonely dance gif](assets/lonely-dance.gif)
